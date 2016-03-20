@@ -1,0 +1,30 @@
+{
+  "name": "heroazure",
+  "version": "1.0.0",
+  "description": "输入加减数字的控制",
+  "main": "Gruntfile.js",
+  "homepage": "http://heroazure.github.io/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt,less,web前端,hx-swiper"
+  ],
+  "author": {
+    "name": "heroxiao"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^0.3.0",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jshint": "^0.6.5",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-qunit": "^1.1.0",
+    "grunt-contrib-uglify": "^0.2.7",
+    "grunt-contrib-watch": "^0.6.1",
+    "jquery-touchswipe": "^1.6.15"
+  }
+}
